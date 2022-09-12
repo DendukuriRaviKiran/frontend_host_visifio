@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend_host_visifio/static/css/main.97ae8be5.css",
+    "main.js": "/frontend_host_visifio/static/js/main.13db003d.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend_host_visifio/static/js/787.cda612ba.chunk.js",
+    "index.html": "/frontend_host_visifio/index.html",
+    "main.97ae8be5.css.map": "/frontend_host_visifio/static/css/main.97ae8be5.css.map",
+    "main.13db003d.js.map": "/frontend_host_visifio/static/js/main.13db003d.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend_host_visifio/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ae8be5.css",
+    "static/js/main.13db003d.js"
+  ]
+}
